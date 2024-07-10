@@ -159,7 +159,7 @@
 
 @keyframes imgRotate { 
     100% { 
-        transform: rotate(360deg) !important; 
+        transform: rotate(360deg); 
     } 
 }
 
